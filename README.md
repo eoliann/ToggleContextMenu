@@ -1,3 +1,9 @@
+![Stars](https://img.shields.io/github/stars/eoliann/ToggleContextMenu?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/eoliann/ToggleContextMenu?style=flat-square)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
+![Release Date](https://img.shields.io/github/release-date/eoliann/ToggleContextMenu?style=flat-square)
+[![Total Downloads](https://img.shields.io/github/downloads/eoliann/ToggleContextMenu/total?style=flat-square)](https://github.com/eoliann/ToggleContextMenu/releases/latest)
+
 # ToggleContextMenu
 Utilitar pentru Windows 11
 
